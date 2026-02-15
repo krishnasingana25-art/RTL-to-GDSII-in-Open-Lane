@@ -35,6 +35,7 @@ Module Memory
             DataOut <= Mem[Address];
         end
       end
+      
 endmodule  
 
 
